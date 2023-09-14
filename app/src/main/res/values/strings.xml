@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BCGDemoApp</string>
+    <string name="first_fragment_label">News List</string>
+    <string name="second_fragment_label">News Detail</string>
+</resources>
